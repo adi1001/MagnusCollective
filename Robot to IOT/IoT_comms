@@ -1,0 +1,75 @@
+#!/bin/bash
+#!/usr/bin/env python3
+
+
+##
+#This code is made for Ingen Dynamics Inc. for use in Aido Robot. 
+#
+#This main bash script controls all the sub-scripts including python scripts
+#this script is the back-end of robot and IOT interaction wherein data is transferred
+#to the front end(Android) only after the blockchain transaction is done and balance is updated
+##
+
+
+tok_bal=$(curl -s server_ip/getTokenValueIOT.php)
+
+
+#Firebase monitoring and transaction function which sends sensor values to the front end
+#only after the token transfer is done
+
+monitoringfb()
+{
+    #requestfrom monitors the firebase flag continuously which is updated by the device requesting the data
+	#in this case the Aido Robot
+    requestfrom=$(sudo python3 /home/path/to/fbm.py)
+    echo "$requestfrom" > /home/path/to/requests
+    #requestfrom=hi
+    echo "message $requestfrom"
+    #when firebase flag is updated with anything other than null the following is performed
+    if [ "$requestfrom" != "NULL" ]
+    then
+        b=1
+		#an iteration counter variable
+        n=1
+        #get token balance of AI before transaction
+        tok_bal=$(curl -s server_ip/getTokenValueIOT.php?)
+        echo "bal before tx: $tok_bal"
+		#execute the token transfer
+        curl -s server_ip/Aido1toIOTtokentransfer.php?
+        
+        while [ $b -eq 1 ]
+        do
+          n=$((n+1))
+          echo "$n"  
+		  #get token balance continuously from a php running at the server  
+          currenttokens=$(curl -s server_ip/getTokenValueIOT.php?)
+          echo "bal: $tok_bal"
+		  #if transaction(token transfer) is successful
+          if [ $currenttokens -gt $tok_bal ]
+          then
+            echo "checking... current bal: $currenttokens"
+            break
+          fi
+         #waiting for transaction to happen, every iteration is approx 0.5 to 1 sec, breaks after iterations 
+		 #but still sends data to AI afterwards
+          if [ $n -gt 50 ]
+          then
+            echo "working ..."
+            break
+          fi
+        done
+        #sudo python3 Scene_Recognition.py
+        /home/pi/Aido/Robot_IoT/IPFSDT
+        
+        
+    fi
+  
+}
+# infinite loop for the function to run in background
+a=1
+while [ $a -eq 1 ]
+do
+      
+  monitoringfb
+
+done
