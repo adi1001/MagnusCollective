@@ -128,13 +128,10 @@ public class MainActivity extends Activity {
     //show the balance.
     public void getDataAido1() {
 
-        new Thread(new Runnable() {
-            public void run() {
-
                 HttpURLConnection urlConnection = null;
                 String result = "";
                 try {
-                    URL url = new URL("http://54.173.133.202/getTokenValueAido1.php?");
+                    URL url = new URL("http://ip_address/getTokenValueAido1.php?");
                     urlConnection = (HttpURLConnection) url.openConnection();
 
                     int code = urlConnection.getResponseCode();
@@ -157,21 +154,16 @@ public class MainActivity extends Activity {
                     e.printStackTrace();
                 }
             }
-
-            }).start();
-
-    }
+    
 
     //when the transaction has complete.It Retrive the Token amount from the running script and
     //show the balance.
     public void getDataAido2() {
-
-        new Thread(new Runnable() {
-            public void run() {
+        
                 HttpURLConnection urlConnectionAido2 = null;
                 String resultAido2 = "";
                 try {
-                    URL url = new URL("http://54.173.133.202/getTokenValueAido2.php?");
+                    URL url = new URL("http://ip_address/getTokenValueAido2.php?");
                     urlConnectionAido2 = (HttpURLConnection) url.openConnection();
 
                     int code = urlConnectionAido2.getResponseCode();
@@ -195,22 +187,16 @@ public class MainActivity extends Activity {
                 }
             }
 
-            }).start();
-
-
-    }
+    
 
     //when the transaction has complete.It Retrive the Token amount from the running script and
     //show the balance.
     public void getDataIOT() {
 
-        new Thread(new Runnable() {
-            public void run() {
-
                 HttpURLConnection urlConnectionIOT = null;
                 String resultHuman = "";
                 try {
-                    URL url = new URL("http://54.173.133.202/getTokenValueIOT.php?");
+                    URL url = new URL("http://ip_address/getTokenValueIOT.php?");
                     Log.i("data", url.toString());
                     urlConnectionIOT = (HttpURLConnection) url.openConnection();
 
@@ -234,23 +220,18 @@ public class MainActivity extends Activity {
                     e.printStackTrace();
                 }
             }
-
-            }).start();
-
-
-    }
+    
 
     //when the transaction has complete.It Retrive the Token amount from the running script and
     //show the balance.
-    public void getDataAI() {
 
-        new Thread(new Runnable() {
-            public void run() {
+
+    public void getDataAI() {
 
                 HttpURLConnection urlConnectionAI = null;
                 String resultAI = "";
                 try {
-                    URL url = new URL("http://54.173.133.202/getTokenValueAI.php?");
+                    URL url = new URL("http://ip_address/getTokenValueAI.php?");
                     Log.i("data", url.toString());
                     urlConnectionAI = (HttpURLConnection) url.openConnection();
 
@@ -275,16 +256,11 @@ public class MainActivity extends Activity {
                 }
             }
 
-            }).start();
-
-
-    }
+     
 
     //when the transaction has complete.It Retrive the Token amount from the running script and
     //show the balance.
     public void getDataHuman() {
-        new Thread(new Runnable() {
-            public void run() {
 
                 HttpURLConnection urlConnectionHuman = null;
                 String resultIOT = "";
@@ -312,9 +288,7 @@ public class MainActivity extends Activity {
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
-            }
-
-            }).start();
+            
 
     }
 

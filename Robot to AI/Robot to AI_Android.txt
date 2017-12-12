@@ -192,7 +192,7 @@ public class MainActivity extends Activity {
         HttpURLConnection urlConnection = null;
         String result = "";
         try {
-            URL url = new URL("http://54.173.133.202/getTokenValueAido1.php?");
+            URL url = new URL("http://ip_address/getTokenValueAido1.php?");
             urlConnection = (HttpURLConnection) url.openConnection();
 
             int code = urlConnection.getResponseCode();
@@ -223,7 +223,7 @@ public class MainActivity extends Activity {
         HttpURLConnection urlConnectionAido2 = null;
         String resultAido2 = "";
         try {
-            URL url = new URL("http://54.173.133.202/getTokenValueAido2.php?");
+            URL url = new URL("http://ip_address/getTokenValueAido2.php?");
             urlConnectionAido2 = (HttpURLConnection) url.openConnection();
 
             int code = urlConnectionAido2.getResponseCode();
@@ -254,7 +254,7 @@ public class MainActivity extends Activity {
         HttpURLConnection urlConnectionIOT = null;
         String resultHuman = "";
         try {
-            URL url = new URL("http://54.173.133.202/getTokenValueIOT.php?");
+            URL url = new URL("http://ip_address/getTokenValueIOT.php?");
             Log.i("data", url.toString());
             urlConnectionIOT = (HttpURLConnection) url.openConnection();
 
@@ -286,7 +286,7 @@ public class MainActivity extends Activity {
         HttpURLConnection urlConnectionAI = null;
         String resultAI = "";
         try {
-            URL url = new URL("http://54.173.133.202/getTokenValueAI.php?");
+            URL url = new URL("http://ip_address/getTokenValueAI.php?");
             Log.i("data", url.toString());
             urlConnectionAI = (HttpURLConnection) url.openConnection();
 
