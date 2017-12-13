@@ -1,8 +1,8 @@
+![capture](https://user-images.githubusercontent.com/33899852/33932221-59d664a2-e018-11e7-87e0-05b2237eeec6.PNG)
 # MagnusCollective
 Aido is the next generation home robot with all in one package of home automation, security, assistance, entertainment, interactive and much more that helps you with household chores, handle your schedule, and keep your home safe.
 
-TECHNICAL SPECIFICATIONS
-
+### TECHNICAL SPECIFICATIONS
 
 Protocols: ZigBee, Z-Wave, WiFi and BLE
 
