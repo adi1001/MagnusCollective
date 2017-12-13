@@ -20,7 +20,7 @@ Environment Sensors: Temperature , Humidity,
 Ambient light , Air quality,  GPS, Noise, Pressure
 
 
-#### Hardware & Software
+### Hardware & Software
 
 There are four (4) main hardware components that are in the process of being patented with the possibility of further patentable parts: (1) Custom Daughterboard, (2) Microcontroller for Mobility, (3) Power Management Board and (4) IR, WIFI and Laser Based Docking.
 There are also four (4) main software components that are patentable: (1) Indoor Positioning, (2) Task Automation, (3) Linux Intelligence Wrapper, and (4)  Aido Speech Engine
