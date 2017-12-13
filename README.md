@@ -62,3 +62,6 @@ ABI : Application Binary Interface, is basically how you call functions in a con
 IPC : Inter-process Communications, the mechanisms an operating system provides to allow the processes to manage shared data.
 
 RPC : Remote Procedure Calls, a kind of request–response protocol
+
+### Contribute
+If you are interested investing in this state-of-the-art project, contact arshad@getaido.com
