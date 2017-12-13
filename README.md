@@ -37,27 +37,29 @@ Indoor Mapping : Object Recognition Based
 
 ### Knowledge base for Robot's interaction with Human, IOT, AI and another Robot included in this resource:
 
-Blockchain is a continuously growing list of records, called blocks, which are linked and secured using cryptography. Each block typically contains a hash pointer as a link to a previous block, a timestamp and transaction data. It enables digital currency named Ethereum.
+[Blockchain](https://www.blockchain.com/) is a continuously growing list of records, called blocks, which are linked and secured using cryptography. Each block typically contains a hash pointer as a link to a previous block, a timestamp and transaction data. It enables digital currency named Ethereum.
 
-Ethereum is a decentralized platform that runs smart contracts on a custom built Blockchain. It provides a cryptocurrency token called "ether" and enables the decentralized web3.
+[Ethereum](https://ethereum.org/) is a decentralized platform that runs smart contracts on a custom built Blockchain. It provides a cryptocurrency token called "ether" and enables the decentralized web3.
 
-web3 is a platform for decentralized apps (dApps).
+[IPFS](https://ipfs.io/) InterPlanetary File System is a peer-to-peer hypermedia protocol designed to create a permanent and decentralized method of storing and sharing files. 
 
-Dapps is a Decentralized Applications on web3 which connect Frontend with Smart Contract on Blockchain.
+[web3](http://ethdocs.org/en/latest/introduction/web3.html) is a platform for decentralized apps (dApps).
 
-MetaMask is a Dapps browsers as Chrome extension. Allows you to run Ethereum dApps right in your browser without running a full Ethereum node.
+[Dapps](http://www.ethereumwiki.com/ethereum-wiki/dapps/) is a Decentralized Applications on web3 which connect Frontend with Smart Contract on Blockchain.
 
-DAO : Decentralized Autonomous Organization,
+[MetaMask](https://metamask.io/) is a Dapps browsers as Chrome extension. Allows you to run Ethereum dApps right in your browser without running a full Ethereum node.
+
+[DAO](https://ethereum.org/dao) : Decentralized Autonomous Organization,
 
 ### Developers
 
-web3.js is the Ethereum compatible JavaScript API which implements the Generic JSON RPC spec. It's available on npm as a node module.
+[web3.js](https://github.com/ethereum/web3.js/) is the Ethereum compatible JavaScript API which implements the Generic JSON RPC spec. It's available on npm as a node module.
 
-Truffle is a NodeJS Framework for Ethereum, use for compile, deploy smart contract.
+[Truffle](https://github.com/trufflesuite/truffle) is a NodeJS Framework for Ethereum, use for compile, deploy smart contract.
 
-Solidity is a contract-oriented, high-level language whose syntax is similar to that of JavaScript and it is designed to target the Ethereum Virtual Machine (EVM).
+[Solidity](http://solidity.readthedocs.io/en/latest/#solidity) is a contract-oriented, high-level language whose syntax is similar to that of JavaScript and it is designed to target the Ethereum Virtual Machine (EVM).
 
-ABI : Application Binary Interface, is basically how you call functions in a contract and get data back.
+[ABI](https://github.com/ethereum/wiki/wiki/Ethereum-Contract-ABI) : Application Binary Interface, is basically how you call functions in a contract and get data back.
 
 IPC : Inter-process Communications, the mechanisms an operating system provides to allow the processes to manage shared data.
 
