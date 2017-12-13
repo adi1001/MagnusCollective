@@ -30,7 +30,7 @@ Operating Systems:  Android and Linux
 
 Compatible with All Android Apps
 
-Apps : Behavior, Text to Speech, Speech to Text, Social Telecast, Ebook Reader, Companion,  Alert System
+Apps : [Behavior](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/Behavior), [Text to Speech](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/SpeechToText), [Speech to Text](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/SpeechToText), [Social Telecast](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/Android_Apps_Script/SocialTelecastApp), [Ebook Reader](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/Android_Apps_Script/E-BookReader), [Companion](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/Companion),  [Alert System](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/Android_Apps_Script/AlertSystem)
 
 Indoor Mapping : Object Recognition Based
 
