@@ -1,4 +1,4 @@
-![capture](https://user-images.githubusercontent.com/33899852/33932221-59d664a2-e018-11e7-87e0-05b2237eeec6.PNG)
+![magnus_coin_generator2](https://user-images.githubusercontent.com/33899852/34069771-d0e34828-e27d-11e7-86c6-ebb772e1c0fe.png)
 # MagnusCollective
 Aido is the next generation home robot with all in one resource of home automation, security, assistance, entertainment, interactive and much more that helps you with household chores, handle your schedule, and keep your home safe.
 
