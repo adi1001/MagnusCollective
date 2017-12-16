@@ -50,6 +50,8 @@ frontend codes for IPFS based data transfer implementation through blockchain be
 
 [User to Robot](https://github.com/adi1001/MagnusCollective/tree/master/User%20to%20Robot) directory contains the backend and frontend codes for IPFS based data transfer implementation through blockchain between User and Robot.
 
+![ipfs](https://user-images.githubusercontent.com/33899852/34070601-d41487a8-e28e-11e7-9bc8-783f226d3e89.PNG)
+
 [Robot scripts](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts) directory contains the backend and frontend codes of robot.
 Android [Apps](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/Android_Apps_Script) for the frontend codes are : [Behavior](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/Behavior), [Text to Speech](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/SpeechToText), [Speech to Text](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/SpeechToText), [Social Telecast](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/Android_Apps_Script/SocialTelecastApp), [Ebook Reader](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/Android_Apps_Script/E-BookReader), [Companion](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/Companion),  [Alert System](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/Android_Apps_Script/AlertSystem)
 
