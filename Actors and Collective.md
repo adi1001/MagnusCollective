@@ -60,3 +60,5 @@ Collective can provide not only a reliable peer-topeer
 communication channel to swarm’s agents,
 but are also a way to overcome potential threats ,
 vulnerabilities , hack attacks and phishing attacks. 
+
+![plaindata](https://user-images.githubusercontent.com/33899852/34071317-b371130c-e29a-11e7-8ea0-ca34a566386e.PNG)
