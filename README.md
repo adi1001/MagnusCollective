@@ -57,13 +57,16 @@ Android [Apps](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20S
 
 ![nd](https://user-images.githubusercontent.com/33899852/34070726-45a829b8-e291-11e7-9c9a-a8012dfe05b0.PNG)
 
-[ROADMAP](https://github.com/adi1001/MagnusCollective/blob/master/ROADMAP.md) TO A FULLY AUTONOMOUS SYNTAGMA; timeline for the evolution
-
-![roadmap](https://user-images.githubusercontent.com/33899852/34071000-2ddd8cd4-e295-11e7-8832-2069aba2cbbc.PNG)
 
 [ACTORS AND THE COLLECTIVE](https://github.com/adi1001/MagnusCollective/blob/master/Actors%20and%20Collective.md)
 
+Many Magnus Collective Actors will live on the cloud, houses or even as minute representation in the form of different IOT devices. Embedded devices that join the collective will be able to exchange data and AI services with other embedded devices containing Magnus Collective actors, as well as with Magnus Collective actors in the cloud and elsewhere; and they will be able to carry out financial exchanges associated with these data and AI exchanges using tokens. The home robots created by Ingen (a co-founding organization of Magnus Collective) will be a proving ground for some of the first embedded Robotic Collectives. Robotics and AI collectives can also barter transactions with each - exchanging skills.
+
 ![plaindata](https://user-images.githubusercontent.com/33899852/34071123-9e40efaa-e297-11e7-844e-b7898c9eebb4.PNG)
+
+[ROADMAP](https://github.com/adi1001/MagnusCollective/blob/master/ROADMAP.md) TO A FULLY AUTONOMOUS SYNTAGMA; timeline for the evolution
+
+![roadmap](https://user-images.githubusercontent.com/33899852/34071000-2ddd8cd4-e295-11e7-8832-2069aba2cbbc.PNG)
 
 ### Contribute
 If you are interested in contributing to the development of this project, contact@0xmagnus.com
