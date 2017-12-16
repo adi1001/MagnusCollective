@@ -1,34 +1,14 @@
 ![magnus_coin_generator2](https://user-images.githubusercontent.com/33899852/34069771-d0e34828-e27d-11e7-86c6-ebb772e1c0fe.png)
 # MagnusCollective
-Aido is the next generation home robot with all in one resource of home automation, security, assistance, entertainment, interactive and much more that helps you with household chores, handle your schedule, and keep your home safe.
+[Robot to AI](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20to%20AI) directory contains the backend and 
+frontend codes for IPFS based data transfer implementation through blockchain between Robot and AI.
 
-### TECHNICAL SPECIFICATIONS
+[Robot to IOT](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20to%20IOT) directory contains the backend and frontend codes for IPFS based data transfer implementation through blockchain between Robot and IOT.
 
-Protocols: ZigBee, Z-Wave, WiFi and BLE
+[Robot to Robot](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20to%20Robot) directory contains the backend and frontend codes for IPFS based data transfer implementation through blockchain between Robot and another Robot.
 
-Universal IR Remote: Supports 1000+ Devices
+[User to Robot](https://github.com/adi1001/MagnusCollective/tree/master/User%20to%20Robot) directory contains the backend and frontend codes for IPFS based data transfer implementation through blockchain between User and Robot.
 
- 
-
-Sensors and Inputs
-Microphones:  6 Capsule Microphone Array
-
-Gravity Sensor:  4-dimensional  G-sensor
-
-Environment Sensors: Temperature , Humidity,
-
-Ambient light , Air quality,  GPS, Noise, Pressure
-
-
-### Hardware & Software
-
-There are four (4) main hardware components that are in the process of being patented with the possibility of further patentable parts: (1) Custom Daughterboard, (2) Microcontroller for Mobility, (3) Power Management Board and (4) IR, WIFI and Laser Based Docking.
-There are also four (4) main software components that are patentable: (1) Indoor Positioning, (2) Task Automation, (3) Linux Intelligence Wrapper, and (4)  Aido Speech Engine
-
-
-Operating Systems:  Android and Linux
-
-Compatible with All Android Apps
 
 Apps : [Behavior](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/Behavior), [Text to Speech](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/SpeechToText), [Speech to Text](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/SpeechToText), [Social Telecast](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/Android_Apps_Script/SocialTelecastApp), [Ebook Reader](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/Android_Apps_Script/E-BookReader), [Companion](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/Companion),  [Alert System](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/Android_Apps_Script/AlertSystem)
 
