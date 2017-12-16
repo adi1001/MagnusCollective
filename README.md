@@ -33,7 +33,7 @@ networks that are being created.
 ### MagnusCollective Vulcan version
 The current version known as Vulcan implements the following mentioned use cases:
 
-![screenshot from 2017-12-16 17-34-58](https://user-images.githubusercontent.com/33899852/34070220-0cff0bda-e288-11e7-8e8c-501bd1b29107.png)
+![ai collective](https://user-images.githubusercontent.com/33899852/34070504-935e9272-e28d-11e7-90f2-447657f84ab5.PNG)
 
 [Robot to AI](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20to%20AI) directory contains the backend and 
 frontend codes for IPFS based data transfer implementation through blockchain between Robot and AI.
@@ -41,6 +41,8 @@ frontend codes for IPFS based data transfer implementation through blockchain be
 ![screenshot from 2017-12-16 17-45-43](https://user-images.githubusercontent.com/33899852/34070264-07c0df58-e289-11e7-9866-22b4860f8adc.png)
 
 [Robot to IOT](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20to%20IOT) directory contains the backend and frontend codes for IPFS based data transfer implementation through blockchain between Robot and IOT.
+
+![screenshot from 2017-12-16 17-34-58](https://user-images.githubusercontent.com/33899852/34070220-0cff0bda-e288-11e7-8e8c-501bd1b29107.png)
 
 [Robot to Robot](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20to%20Robot) directory contains the backend and frontend codes for IPFS based data transfer implementation through blockchain between Robot and another Robot.
 
