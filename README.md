@@ -12,6 +12,7 @@ make people smarter, machines better, Robots
 cheaper and faster, and, AI better by ensuring a
 collaboration with other agents in the Magnus
 Collective network.
+
 In addition Magnus will have its own independent
 agent bots called “Sentry Bots” which will ensure
 that rogue agents are out of the Magnus network.
@@ -31,6 +32,8 @@ networks that are being created.
 
 ### MagnusCollective Vulcan version
 The current version known as Vulcan implements the following mentioned use cases:
+
+![screenshot from 2017-12-16 17-34-58](https://user-images.githubusercontent.com/33899852/34070220-0cff0bda-e288-11e7-8e8c-501bd1b29107.png)
 
 [Robot to AI](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20to%20AI) directory contains the backend and 
 frontend codes for IPFS based data transfer implementation through blockchain between Robot and AI.
