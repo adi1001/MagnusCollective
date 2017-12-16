@@ -61,7 +61,7 @@ Android [Apps](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20S
 
 ![roadmap](https://user-images.githubusercontent.com/33899852/34071000-2ddd8cd4-e295-11e7-8832-2069aba2cbbc.PNG)
 
-[ACTORS AND THE COLLECTIVE]
+[ACTORS AND THE COLLECTIVE](https://github.com/adi1001/MagnusCollective/blob/master/Actors%20and%20Collective.md)
 
 
 ### Contribute
