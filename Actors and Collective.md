@@ -33,6 +33,7 @@ skills.
 
 a. Security in Robot Collectives and Cloud
 Robotics
+
 In commercial applications security is of
 paramount importance - and this has in ways been
 hindering a large scale deployment of a swarm or
@@ -41,11 +42,17 @@ members of the group of Robots can trust each
 other is the central point here. This also helps
 screen out members of the collective that has
 malicious intent.
+
 There are four key elements here are
+
 • Data confidentiality
+
 • Data integrity
+
 • Entity authentication
+
 • Data origin authentication
+
 Magnus Collective by the features of the block
 chain built underneath it can address all these key
 elements in a comprehensive manner. Magnus
