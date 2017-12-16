@@ -46,6 +46,8 @@ frontend codes for IPFS based data transfer implementation through blockchain be
 
 [Robot to Robot](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20to%20Robot) directory contains the backend and frontend codes for IPFS based data transfer implementation through blockchain between Robot and another Robot.
 
+![human actors](https://user-images.githubusercontent.com/33899852/34070575-61840542-e28e-11e7-8049-422217caaa4b.PNG)
+
 [User to Robot](https://github.com/adi1001/MagnusCollective/tree/master/User%20to%20Robot) directory contains the backend and frontend codes for IPFS based data transfer implementation through blockchain between User and Robot.
 
 [Robot scripts](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts) directory contains the backend and frontend codes of robot.
