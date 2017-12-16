@@ -30,7 +30,7 @@ negotiation and requests between different
 networks and open up Magnus to all the external
 networks that are being created. 
 
-### MagnusCollective Vulcan version
+### Magnus Collective Vulcan (Dec 2017) version
 The current version known as Vulcan implements the following mentioned use cases:
 
 ![ai collective](https://user-images.githubusercontent.com/33899852/34070504-935e9272-e28d-11e7-90f2-447657f84ab5.PNG)
@@ -54,6 +54,8 @@ frontend codes for IPFS based data transfer implementation through blockchain be
 
 [Robot scripts](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts) directory contains the backend and frontend codes of robot.
 Android [Apps](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/Android_Apps_Script) for the frontend codes are : [Behavior](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/Behavior), [Text to Speech](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/SpeechToText), [Speech to Text](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/SpeechToText), [Social Telecast](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/Android_Apps_Script/SocialTelecastApp), [Ebook Reader](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/Android_Apps_Script/E-BookReader), [Companion](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/MainRobot_Script/Companion),  [Alert System](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20Scripts/Android_Apps_Script/AlertSystem)
+
+![nd](https://user-images.githubusercontent.com/33899852/34070726-45a829b8-e291-11e7-9c9a-a8012dfe05b0.PNG)
 
 ### Contribute
 If you are interested in contributing to the development of this project, contact@0xmagnus.com
