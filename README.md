@@ -63,6 +63,7 @@ Android [Apps](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20S
 
 [ACTORS AND THE COLLECTIVE](https://github.com/adi1001/MagnusCollective/blob/master/Actors%20and%20Collective.md)
 
+![plaindata](https://user-images.githubusercontent.com/33899852/34071123-9e40efaa-e297-11e7-844e-b7898c9eebb4.PNG)
 
 ### Contribute
 If you are interested in contributing to the development of this project, contact@0xmagnus.com
