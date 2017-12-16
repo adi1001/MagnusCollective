@@ -57,5 +57,9 @@ Android [Apps](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20S
 
 ![nd](https://user-images.githubusercontent.com/33899852/34070726-45a829b8-e291-11e7-9c9a-a8012dfe05b0.PNG)
 
+[ROADMAP](https://github.com/adi1001/MagnusCollective/blob/master/ROADMAP.md) TO A FULLY AUTONOMOUS SYNTAGMA; timeline for the evolution
+
+![roadmap](https://user-images.githubusercontent.com/33899852/34071000-2ddd8cd4-e295-11e7-8832-2069aba2cbbc.PNG)
+
 ### Contribute
 If you are interested in contributing to the development of this project, contact@0xmagnus.com
