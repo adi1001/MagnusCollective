@@ -47,7 +47,7 @@ frontend applications for IPFS based data transfer implementation through blockc
 ![screenshot from 2017-12-16 17-34-58](https://user-images.githubusercontent.com/33899852/34070220-0cff0bda-e288-11e7-8e8c-501bd1b29107.png)
 
 [Robot to Robot](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20to%20Robot) directory contains the backend and frontend applications for IPFS based data transfer implementation through blockchain between Robot and another Robot.
-[![Vulcan Demo](https://i.imgur.com/Gb1t1jZ.png)](https://youtu.be/ZBSTlGHHF5I)
+[![Vulcan Demo](https://i.imgur.com/Gb1t1jZ.png)](https://youtu.be/rnFNKtR8gjQ)
 
 ![human actors](https://user-images.githubusercontent.com/33899852/34070575-61840542-e28e-11e7-8049-422217caaa4b.PNG)
 
