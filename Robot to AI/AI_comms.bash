@@ -3,7 +3,7 @@
 
 
 ##
-#This code is made for Ingen Dynamics Inc. for use in Aido Robot. 
+#This code is made for The Magnus Collective. 
 #
 #This main bash script controls all the sub-scripts including python scripts
 #this script is the back-end of robot and AI interaction wherein data is transferred

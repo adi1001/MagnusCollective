@@ -1,6 +1,6 @@
-'''
-	This code was developed for Ingen Dynamics Inc. for use in Aido Robot
-	
+
+#	This code was developed for The Magnus Collective
+'''	
 	The below code sends an image to the google cloud after reading it as a file buffer
 	The results from the cloud_vision api are retrieved and written into a text file
 

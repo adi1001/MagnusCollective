@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 
 ##
-#This code is made for Ingen Dynamics Inc. for use in Aido Robot. 
+#This code is made for The Magnus Collective. 
 #
 #This script is responsible to convert the data from scene recognition into an
 #ipfs hash and sends it over through the ipfs. this code assumes ipfs daemon is running

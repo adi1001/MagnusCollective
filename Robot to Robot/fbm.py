@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #
-#This code was developed for Ingen Dynamics Inc. for use in Aido Robot
+#This code was developed for The Magnus Collective
 #The below code updates the firebase trigger flag to null indicating that the all instructions are executed
 #and maked the program ready to be triggered again. It also updates a certain firebase node with
 #hash code generated through ipfs so that the android front end can access the data.

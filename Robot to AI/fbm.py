@@ -1,5 +1,5 @@
 '''
-	This code is developed for Ingen Dynamics for use in Aido Robot 
+	This code is developed for The Magnus Collective. 
 	
 	The below code retrieves data from firebase continuously using firebase-admin
 	module, which assumes the path to json keyfile is pointed properly 
