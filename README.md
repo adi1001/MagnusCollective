@@ -37,7 +37,7 @@ The current version known as Vulcan implements the following mentioned use cases
 
 [Robot to AI](https://github.com/adi1001/MagnusCollective/tree/master/Robot%20to%20AI) directory contains the backend and 
 frontend applications for IPFS based data transfer implementation through blockchain between Robot and AI.
-[![Vulcan Demo](https://i.imgur.com/Gb1t1jZ.png)](https://youtu.be/ulUXOKteqNY)
+[![Vulcan Demo](https://i.imgur.com/Gb1t1jZ.png)](https://youtu.be/7fMBVxde7qc)
 
 ![screenshot from 2017-12-16 17-45-43](https://user-images.githubusercontent.com/33899852/34070264-07c0df58-e289-11e7-9866-22b4860f8adc.png)
 
