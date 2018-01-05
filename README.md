@@ -55,7 +55,7 @@ frontend applications for IPFS based data transfer implementation through blockc
 [![Vulcan Demo](https://i.imgur.com/Gb1t1jZ.png)](https://youtu.be/dW0iXsgSpRo)
 
 [Aragon-Magnus-Implementation](https://github.com/adi1001/MagnusCollective/tree/master/Aragon-Magnus-Implementation) directory contain codes which retrives token balance of accounts linked to the Aragon network.
-[![Vulcan Demo](https://imgur.com/M1CVji5)](https://youtu.be/QDJJEpkXwmk)
+[![Vulcan Demo](https://i.imgur.com/iCxDyHA.png)](https://youtu.be/OFRCmLR2h08)
 
 ![ipfs](https://user-images.githubusercontent.com/33899852/34070601-d41487a8-e28e-11e7-9bc8-783f226d3e89.PNG)
 
