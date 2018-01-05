@@ -13,8 +13,7 @@
  */
 
 
-//This class was developed by Magnus Collective. This is called
-//when we need the "Ack VOTE" token balance.
+//This is developed by Magnus Collective. This program is called //when we need the "Ack VOTE" token balance.
 
 
 const Web3 = require("web3");
